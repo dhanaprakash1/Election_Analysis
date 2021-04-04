@@ -15,6 +15,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Class Module Code: PyPoll.py
 - Challenge Code: PyPoll_Challenge.py
 - Challenge Terminal Output: ![Screenshot Terminal](Resources/ScreenShot_TerminalOutput.png)
+- Challenge TextFile Output: ![Challenge output text file](analysis/election_analysis.txt)
 
 ## Summary
 The analysis of the election show that:
