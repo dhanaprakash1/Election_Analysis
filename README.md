@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressiinal election. 
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
 
 1. Calculate the total number of votes cast. 
 2. Get a complete list of candidates who received votes.
@@ -11,23 +11,37 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources 
 - Data Sources: election_results.csv
-- Software: Python 3.6.1 Visual Studio Code, 1.30.1
+- Software: Python 3.8.5 Visual Studio Code, 1.54.1
 
 ## Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were "369,711" votes cast in the election.
 - The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
+  - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
+  - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
+  - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 - The winner of the election was:
-  - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes. 
+  - Candidate Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes. 
 
 ## Challenge Overview
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+Goal is to find the list of counties and the county with largest turnout
 
 ## Challenge Summary
+The analysis of the election shows that:
+- There were "369,711" votes cast in the election.
+- The counties were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county results were:
+  - Jefferson received "10.5%" of the vote and "38,855" number of votes. 
+  - Denver received "82.8%" of the vote and "306,055" number of votes. 
+  - Arapahoe received "6.7%" of the vote and "24,801" number of votes. 
+- The county with the largest turnout  was:
+  -  County with largest turnout is Denver (306,055 votes)
 
