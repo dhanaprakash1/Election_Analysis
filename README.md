@@ -12,10 +12,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Resources 
 - Data Sources: election_results.csv
 - Software: Python 3.8.5 Visual Studio Code, 1.54.1
-
-## Code
-- Class Module: PyPoll.py
-- Challenge: PyPoll_Challenge.py
+- Class Module Code: PyPoll.py
+- Challenge Code: PyPoll_Challenge.py
+- Challenge Terminal Output: ![Screenshot Terminal](Resources/ScreenShot_TerminalOutput.png)
 
 ## Summary
 The analysis of the election show that:
