@@ -13,6 +13,10 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Sources: election_results.csv
 - Software: Python 3.8.5 Visual Studio Code, 1.54.1
 
+## Code
+- Class Module: PyPoll.py
+- Challenge: PyPoll_Challenge.py
+
 ## Summary
 The analysis of the election show that:
 - There were "369,711" votes cast in the election.
@@ -30,6 +34,9 @@ The analysis of the election show that:
 ## Challenge Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 Goal is to find the list of counties and the county with largest turnout
+
+## Code for Challenge
+- PyPoll_Challenge.py
 
 ## Challenge Summary
 The analysis of the election shows that:
